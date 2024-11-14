@@ -1,1 +1,1 @@
-# project-collab
+A file for project collaboration.
